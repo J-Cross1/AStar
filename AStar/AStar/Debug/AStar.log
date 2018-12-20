@@ -1,4 +1,4 @@
 ﻿  recipe-577457-1.cpp
-c:\users\j-cro\desktop\a_star_code\cpp\recipe-577457-1.cpp(211): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\j-cro\desktop\a_star_code\cpp\recipe-577457-1.cpp(263): warning C4018: '<': signed/unsigned mismatch
+c:\users\j-cro\desktop\a_star_code\cpp\recipe-577457-1.cpp(212): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\j-cro\desktop\a_star_code\cpp\recipe-577457-1.cpp(286): warning C4018: '<': signed/unsigned mismatch
   AStar.vcxproj -> C:\Users\J-Cro\Desktop\A_star_code\AStar\Debug\AStar.exe
